@@ -1,7 +1,7 @@
 {
   "name": "mysql",
-  "version": "0.9.6",
-  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
+  "version": "0.9.6.1",
+  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/), Modified by pcvisit",
   "description": "A pure node.js JavaScript Client implementing the MySQL protocol.",
   "homepage": "https://github.com/felixge/node-mysql",
   "repository": {
